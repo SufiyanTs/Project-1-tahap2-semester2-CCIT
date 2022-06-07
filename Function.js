@@ -1,0 +1,1 @@
+function MovePage(){window.location.href="ProductPage.html"}
